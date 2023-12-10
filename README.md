@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Automation & robotics engineer<br>🦾 Experienced in PLC & robots programming<br>🌱 Slight experience in computer vision<br>🕵️‍♂️ Exploring and learning artificial intelligence with python<br>🖥️ Developing backend with Django and Flask<br>⚡ Native polish, fluent in english and better every day at danish
+🔭 Automation & robotics engineer<br>🦾 Experienced in PLC & robots programming<br>🌱 Slight experience in computer vision<br>🕵️‍♂️ Exploring and learning artificial intelligence with python<br>🖥️ Developing fullstack web apps with Django and React<br>⚡ Native polish, fluent in english and better every day at danish
 
 
 # 💻 Tech Stack:
