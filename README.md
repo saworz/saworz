@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Automation & robotics engineer<br>🦾 Experienced in PLC & robots programming<br>🌱 Slight experience in computer vision<br>🕵️‍♂️ Exploring and learning artificial intelligence with python<br>🖥️ Developing fullstack web apps with Django and React<br>⚡ Native polish, fluent in english and better every day at danish
+🔭 Automation & robotics engineer<br>🦾 Experienced in PLC & robots programming<br>🌱 Slight experience in computer vision<br>🕵️‍♂️ Exploring and learning artificial intelligence with Python<br>🖥️ Developing fullstack web apps with Django and React<br>⚡ Native polish, fluent in english and better every day at danish<br>🛠️ Currently working on [Django & React Chess Webapp](https://github.com/saworz/django-react-chess)<br>📚 Currently learning MERN Stack
 
 ![](https://raw.githubusercontent.com/saworz/github-stats/master/generated/languages.svg) ![](https://raw.githubusercontent.com/saworz/github-stats/master/generated/overview.svg)
 
