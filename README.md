@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working as Django Developer<br>🦾 Experienced in PLC & robots programming<br>🌱 Slight experience in computer vision<br>🕵️‍♂️ Exploring and learning artificial intelligence with Python<br>🖥️ Developing fullstack web apps with Django and React<br>⚡ Native polish, fluent in english and better every day at danish<br>🛠️
+🔭 Working as Django Developer<br>🦾 Experienced in PLC & robots programming<br>🌱 Slight experience in computer vision<br>🕵️‍♂️ Exploring and learning artificial intelligence with Python<br>🖥️ Developing fullstack web apps with Django and React<br>⚡ Native polish, fluent in english and better every day at danish<br>
 
 ![](https://raw.githubusercontent.com/saworz/github-stats/master/generated/languages.svg) ![](https://raw.githubusercontent.com/saworz/github-stats/master/generated/overview.svg)
 
